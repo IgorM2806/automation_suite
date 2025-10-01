@@ -1,5 +1,5 @@
 # automation_suite
-
+---
 ## Автотесты на java:
 - **CheckingAboutMePage.java**
 - **CheckingConsultationRequestForms.java**
@@ -19,9 +19,7 @@
     - Для взаимодействия с элементами интерфейса использована библиотека Selenium WebDriver;
     - для логирования использованы стандартные потоки вывода System.out и System.err;
     - использованы утверждение Assert для подтверждения ожидаемого результата.
-
 ---
-
 ## CheckingPublicationsPage.groovy
 
 ###  Язык программирования и среда разработки:

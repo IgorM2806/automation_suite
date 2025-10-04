@@ -1,4 +1,5 @@
 # automation_suite
+**Файл описывает автоматизированные тесты, созданные для проверки различных частей сайта "psycholog-vam.ru"**
 ---
 ## **TestJava** - Автотесты на java:
 - **CheckingAboutMePage.java**

@@ -39,8 +39,9 @@
 - **AssertionError:** - исключительная ситуация, бросаемая при неудачных проверках, служит для уведомления о проблемах в работе теста.
 ---
 
-## ContrpllerTest:
-- **ArticleControllerTest.java**
+## ControllerTest:
+
+- **ArticleCntrollerTest.java**
 - **MainPageControllerTests.java**
 - **SearchPublicationControllerTests.java**
 - **MainPageServiceTest.java**
